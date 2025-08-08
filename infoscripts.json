@@ -1,10 +1,10 @@
 [
-  {
-    "scriptName": "Mrvanka.lua",
-    "version": "2.2",
-    "description": "Рванка",
-    "command": "/rvnmf",
-    "size": "150 KB",
-    "lastUpdated": "2025-08-08"
-  }
+    {
+        "name": "Mrvanka.lua",
+        "version": "2.2",
+        "description": "Скрипт рванка",
+        "command": "/rvnmf",
+        "size": "150 KB",
+        "lastUpdated": "2025-08-08"
+    }
 ]
